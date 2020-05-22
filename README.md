@@ -1,6 +1,6 @@
 # maribor-city-park-cad-map
 
-Project contains map of Maribor city park walkways (with a part of promenade) with its correspoding cadastre map.
+Project contains map of Maribor city park walkways (with a part of promenade) with its correspoding cadastre map (Maribor grad - 657).
 
 Points measured with GNSS module.
 
